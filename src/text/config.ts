@@ -1,0 +1,15 @@
+export default [
+    {type: 'text', text: 'Hello'},
+    {type: 'text', text: 'World'},
+    {type: 'text', text: '55'},
+    {type: 'text', text: 'Apple'},
+    {type: 'text', text: 'Tree'},
+    {type: 'text', text: 'Crit!'},
+    {type: 'text', text: '1.000'},
+    {type: 'text', text: '-10'},
+    {type: 'image', url: 'img/card.png'},
+    {type: 'image', url: 'img/coins.png'},
+    {type: 'image', url: 'img/sword.png'},
+    {type: 'image', url: 'img/gem.png'},
+    {type: 'image', url: 'img/smile.png'},
+];
